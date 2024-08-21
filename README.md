@@ -37,5 +37,5 @@ I'm a 25 years old unity developer from Russia.
 - [hh.ru](https://hh.ru/resume/73ffe1b4ff0d3581da0039ed1f5a4f46564855)
 
 ------------------
-<img align="middle" src="https://github-visitors-badge.glitch.me/badge?page_id=A1exdV.A1exdV"/>
+[![Visitors](https://api.visitorbadge.io/api/combined?path=A1exdv%2FA1exdV&labelColor=%23ffff00&countColor=%23263759&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=A1exdv%2FA1exdV)
 
