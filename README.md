@@ -1,4 +1,5 @@
 # Hey! 👋
+
 I'm Alex, a 25 years old unity developer from Russia.
 
 ## 🌟 Skills
@@ -34,3 +35,5 @@ I'm Alex, a 25 years old unity developer from Russia.
 - [Telegram](https://telegram.me/a1exdv)
 - [hh.ru](https://hh.ru/resume/73ffe1b4ff0d3581da0039ed1f5a4f46564855)
 
+------------------
+<img align="middle" src="https://github-visitors-badge.glitch.me/badge?page_id=A1exdV.A1exdV"/>
