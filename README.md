@@ -1,6 +1,7 @@
 # Hey! 👋
+![itch](https://github.com/user-attachments/assets/6bc9c87b-252e-4269-9c02-90a994c6442b)
 
-I'm Alex, a 25 years old unity developer from Russia.
+I'm a 25 years old unity developer from Russia.
 
 ## 🌟 Skills
 ![](https://img.shields.io/badge/.net-blue?style=flat&logo=dotnet)
@@ -37,3 +38,4 @@ I'm Alex, a 25 years old unity developer from Russia.
 
 ------------------
 <img align="middle" src="https://github-visitors-badge.glitch.me/badge?page_id=A1exdV.A1exdV"/>
+
