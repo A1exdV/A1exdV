@@ -19,9 +19,10 @@ I'm a 25 years old unity developer from Russia.
 ![](https://img.shields.io/badge/SOLID-grey?style=flat&logo=solid)
 
 ## 🔧 My Projects:
-- ###    GitHub
-  - [Kitchen Chaos](https://github.com/A1exdV/Kitchen-Chaos)
-  - [Addressables Test Task](https://github.com/A1exdV/Creobit-Test-Task)
+- ###  👾  GitHub
+  - [🐦 Flappy Bird](https://github.com/A1exdV/FlappyBird/tree/dev)
+  - [🍔 Kitchen Chaos](https://github.com/A1exdV/Kitchen-Chaos)
+  - [🔗 Addressables Test Task](https://github.com/A1exdV/Creobit-Test-Task)
 - ### [👾 Yandex Games](https://yandex.ru/games/developer/60563)
   - [💣 Minesweper](https://yandex.ru/games/app/232565)
 - ### [👾 Itch.io](https://alexdv1.itch.io/)
